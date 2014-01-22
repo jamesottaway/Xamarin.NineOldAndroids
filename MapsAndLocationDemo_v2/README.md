@@ -1,6 +1,10 @@
 Maps and Location Demo v2
 =========================
 
+***
+**Note:** This sample shows how to create a Xamarin.Android Java Library Binding for revision 12 of the Google Play Services client library. This is the last version of the Google Play Services client to support Froyo (API level 8).
+***
+
 This code shows how to use Google Maps v2 in an Android application and how to create the Java Binding Library project for Google Play services client library.
 
 This sample is relevant for users of Xamarin.Android 4.4 or Xamarin 4.6. If you are using Xamarin.Android 4.8, it is recommended that you use the Google Play Services component as demonstrated in the [MapsAndLocationDemo_v3](https://github.com/xamarin/monodroid-samples/tree/master/MapsAndLocationDemo_v3) sample.
