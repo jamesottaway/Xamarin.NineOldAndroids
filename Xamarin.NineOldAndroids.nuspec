@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+      <id>Xamarin.NineOldAndroids</id>
+      <version>0.0.1</version>
+      <title>Xamarin.NineOldAndroids</title>
+      <authors>James Ottaway</authors>
+      <owners>James Ottaway</owners>
+      <licenseUrl>https://github.com/jamesottaway/Xamarin.NineOldAndroids/blob/master/LICENSE.md</licenseUrl>
+      <projectUrl>https://github.com/jamesottaway/Xamarin.NineOldAndroids</projectUrl>
+      <requireLicenseAcceptance>false</requireLicenseAcceptance>
+      <description>Xamarin bindings for @JakeWharton's awesome NineOldAndroids library</description>
+      <summary>Xamarin bindings for @JakeWharton's awesome NineOldAndroids library</summary>
+      <copyright>Copyright 2014</copyright>
+  </metadata>
+  <files>
+    <file src="NineOldAndroids/bin/Release/*.dll" target="lib/MonoAndroid" />
+  </files>
+</package>

@@ -1,0 +1,2 @@
+#!/bin/sh
+exec "$MONO_HOME/bin/mono" $MONO_OPTIONS "$NINE_OLD_ANDROIDS_HOME/.nuget/NuGet.exe" "$@"
